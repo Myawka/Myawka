@@ -1,14 +1,7 @@
 <div id="header" align="center">
 <img src="https://camo.githubusercontent.com/9cb92ab3e52ac66d4c34192125aa4449b993b898a6778c560db7dbc451e3bb17/68747470733a2f2f63646e34352e706963736172742e636f6d2f3137363931343234363030313230312e676966"; width="500"/>
 </div>
-<div id="badges">
-<a href="https://vk.com/andwho.isit">
-<img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white"; alt="Vk Badge"/>
-</a>
-<a href="https://t.me/ssscolo">
-<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"; alt="Telegram Badge"/>
-</a>
-</div>
+
 <h1>
 Hello everyone!
   :two_hearts:
@@ -38,5 +31,16 @@ Hello everyone!
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg"; title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   
 </div>
+
+### :love_letter: Contact me:
+<div id="badges">
+<a href="https://vk.com/andwho.isit">
+<img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white"; alt="Vk Badge"/>
+</a>
+<a href="https://t.me/ssscolo">
+<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"; alt="Telegram Badge"/>
+</a>
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myawka)](https://github.com/anuraghazra/github-readme-stats)
