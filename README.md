@@ -2,10 +2,10 @@
 <img src="https://camo.githubusercontent.com/9cb92ab3e52ac66d4c34192125aa4449b993b898a6778c560db7dbc451e3bb17/68747470733a2f2f63646e34352e706963736172742e636f6d2f3137363931343234363030313230312e676966"; width="500"/>
 </div>
 <div id="badges">
-<a href="https://vk.com/andwho.isit">;
+<a href="https://vk.com/andwho.isit">
 <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white"; alt="Vk Badge"/>
 </a>
-<a href="https://t.me/ssscolo">;
+<a href="https://t.me/ssscolo">
 <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"; alt="Telegram Badge"/>
 </a>
 </div>
