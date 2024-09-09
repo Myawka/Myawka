@@ -10,11 +10,12 @@
 </a>
 </div>
 <h1>
-hello everyone!
+Hello everyone!
   :two_hearts:
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"; width="30px"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGp4azY0N2Y1czB1NmtwZ2hvdjVmaGs5a3I3c3dwb3h0dG9sM2F5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"; width="30px"/>
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerko+One&size=49&pause=1000&color=F78989&background=FFFFFF00&width=435&lines=Welcome+to+my+page+!)](https://git.io/typing-svg)
 ### :woman_technologist: About me :
 
 :computer: I am a beginner programmer. 
