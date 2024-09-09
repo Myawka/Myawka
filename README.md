@@ -31,7 +31,12 @@ Hello everyone!
 ### :hammer_and_wrench: Languages and tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"; title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"; title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pycharm/pycharm-original.svg"; title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"; title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg"; title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg"; title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myawka)](https://github.com/anuraghazra/github-readme-stats)
