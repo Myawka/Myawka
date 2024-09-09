@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNwcmtmeXY2anBjZmk5OWF1dGpyeW1sOTkwenl0dGx4c3VtaDJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"; width="300"/>
+<img src="https://camo.githubusercontent.com/9cb92ab3e52ac66d4c34192125aa4449b993b898a6778c560db7dbc451e3bb17/68747470733a2f2f63646e34352e706963736172742e636f6d2f3137363931343234363030313230312e676966"; width="500"/>
 </div>
 <div id="badges">
 <a href="https://vk.com/andwho.isit">;
