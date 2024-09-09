@@ -19,7 +19,7 @@ Hello everyone!
 ### :woman_technologist: About me :
 
 :computer: I am a beginner programmer. 
-:computer_mouse:
+
 
 :briefcase: I am studying on the applied computer science profile in CEPU.
 
