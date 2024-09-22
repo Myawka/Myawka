@@ -23,11 +23,10 @@ Hello everyone!
 
 ### :hammer_and_wrench: Languages and tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"; title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"; title="python" alt="python" width="40" height="40"/>&nbsp;
 <img src= "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg"; title="html" alt ="html" width="40" height="40"/>&nbsp;
+<img src= "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css/css-original.svg"; title="css" alt ="css" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pycharm/pycharm-original.svg"; title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"; title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg"; title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg"; title="photoshop" alt="photoshop" width="40" 
 height="40"/>&nbsp;
