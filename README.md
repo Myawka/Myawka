@@ -17,7 +17,7 @@ Hello everyone!
 :briefcase: I am studying on the applied computer science profile in CEPU.
 
 ### :fire: My Stats :
-[![GitHub Streak](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?Myawka=&theme=jolly)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Myawka&theme=jolly" alt="GitHub Streak" /></a>
 
 
 ### :hammer_and_wrench: Languages and tools :
