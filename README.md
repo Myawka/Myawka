@@ -22,10 +22,8 @@ Hello everyone!
 
 ### :hammer_and_wrench: Languages and tools :
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"; title="python" alt="python" width="40" height="40"/>&nbsp;
 <img src= "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg"; title="html" alt ="html" width="40" height="40"/>&nbsp;
 <img src= "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg"; title="css" alt ="css" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pycharm/pycharm-original.svg"; title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg"; title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg"; title="photoshop" alt="photoshop" width="40" 
 height="40"/>&nbsp;
