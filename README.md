@@ -19,7 +19,6 @@ Hello everyone!
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Myawka&theme=jolly" alt="GitHub Streak" /></a>
 
-
 ### :hammer_and_wrench: Languages and tools :
 <div>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg"; title="html" alt ="html" width="40" height="40"/>&nbsp;
